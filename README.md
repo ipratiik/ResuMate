@@ -1,8 +1,11 @@
 # ResuMate - AI Powered Resume Generator
 
-
-
 ResuMate is an intelligent resume generator that leverages AI to create professional, tailored resumes. Built with Spring Boot and React, it offers a seamless experience for creating ATS-friendly resumes with AI-powered content suggestions.
+
+## Screenshots
+
+![ResuMate](https://github.com/ipratiik/ResuMate/blob/main/ResuMate.gif)
+
 
 ## ✨ Features
 
