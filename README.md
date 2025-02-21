@@ -1,4 +1,4 @@
-# ResuMate - AI-Powered Resume Generator
+# ResuMate - AI Powered Resume Generator
 
 
 
